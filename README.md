@@ -1,5 +1,5 @@
 # Projeto-TubeZola
-uma plataforma de pesquisa desenvolvido com sucesso por mim: "Dev02Zola".
+uma plataforma de pesquisa desenvolvido com sucesso
 <p align="center">
     Meus Projetos de aprendizado na Programação <br>
     <thead>
